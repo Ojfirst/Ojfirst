@@ -7,3 +7,23 @@
 </h1>
 
 ### A software engineer passionate about Functional Code, Immutable Passion, and user-centric web applications.
+
+- 🌱 I’m currently learning **[React](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/ojfirst/ojfirst/issues)**
+
+<br>
+
+<div align="center">
+  <a href="simonaina@outlook.com">
+    <img src="https://img.shields.io/badge/outlook-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
+  </a>
+  <a href="www.linkedin.com/in/simonaina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://x.com/ojreliev?t=KNsX8L2wQFzY_KresrcdmQ&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
