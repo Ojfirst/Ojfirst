@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/ojfirst/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/ojfirst/ojfirst/blob/main/think.jpg" alt="Banner of a developer sitting in front of a desk">
+<img src="https://github.com/ojfirst/ojfirst/blob/main/oj.jpg" alt="Banner of a developer sitting in front of a desk">
 
 
 <h1 align="center">
@@ -38,8 +38,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux" />
 </p>
 
 <hr>
