@@ -20,9 +20,8 @@
   <a href="www.linkedin.com/in/simonaina" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="www.linkedin.com/in/simonaina" target="_blank">
-    <img src="[![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=twitter&logoColor=blue)](https://x.com/YourUsername)
-" target="_blank" />
+  <a href="https://www.instagram.com/oj1st?igsh=MWlmdXNxMGQ5MWVnZg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   </a>
 </div>
