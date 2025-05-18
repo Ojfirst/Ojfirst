@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://x.com/ojreliev?t=KNsX8L2wQFzY_KresrcdmQ&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank" />
+    <img src="[![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=twitter&logoColor=blue)]" target="_blank" />
   </a>
 </div>
 
