@@ -7,13 +7,13 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Simon+Aina!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+OjFirst+Web+Apps!;" />
 </h1>
 
 ### A software engineer passionate about Functional Code, Immutable Passion, and user-centric web applications.
 
-- 🌱 I’m currently learning **[React](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **React...or anything [here](https://github.com/ojfirst/ojfirst/issues)**
+- 🌱 I’m currently learning **[NodeJs](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 💬 Ask me about **FrontEnd Development...or anything [here](https://github.com/ojfirst/ojfirst/issues)**
 
 <br>
 
